@@ -1,0 +1,1256 @@
+,outcome
+0,Away Team Win
+1,Draw
+2,Home Team Win
+3,Home Team Win
+4,Home Team Win
+5,Home Team Win
+6,Away Team Win
+7,Draw
+8,Away Team Win
+9,Away Team Win
+10,Home Team Win
+11,Home Team Win
+12,Draw
+13,Home Team Win
+14,Draw
+15,Draw
+16,Home Team Win
+17,Home Team Win
+18,Draw
+19,Draw
+20,Home Team Win
+21,Home Team Win
+22,Draw
+23,Home Team Win
+24,Away Team Win
+25,Away Team Win
+26,Home Team Win
+27,Away Team Win
+28,Draw
+29,Home Team Win
+30,Away Team Win
+31,Draw
+32,Home Team Win
+33,Home Team Win
+34,Home Team Win
+35,Home Team Win
+36,Home Team Win
+37,Away Team Win
+38,Draw
+39,Away Team Win
+40,Draw
+41,Home Team Win
+42,Home Team Win
+43,Draw
+44,Home Team Win
+45,Draw
+46,Home Team Win
+47,Draw
+48,Home Team Win
+49,Away Team Win
+50,Draw
+51,Home Team Win
+52,Home Team Win
+53,Draw
+54,Away Team Win
+55,Home Team Win
+56,Home Team Win
+57,Draw
+58,Home Team Win
+59,Home Team Win
+60,Home Team Win
+61,Away Team Win
+62,Away Team Win
+63,Draw
+64,Home Team Win
+65,Away Team Win
+66,Home Team Win
+67,Home Team Win
+68,Draw
+69,Away Team Win
+70,Away Team Win
+71,Draw
+72,Away Team Win
+73,Home Team Win
+74,Home Team Win
+75,Draw
+76,Home Team Win
+77,Home Team Win
+78,Home Team Win
+80,Home Team Win
+81,Away Team Win
+82,Home Team Win
+83,Home Team Win
+84,Home Team Win
+85,Away Team Win
+86,Draw
+87,Home Team Win
+88,Draw
+89,Draw
+90,Home Team Win
+91,Home Team Win
+92,Away Team Win
+93,Away Team Win
+94,Draw
+95,Draw
+96,Home Team Win
+97,Draw
+98,Home Team Win
+99,Away Team Win
+100,Draw
+101,Home Team Win
+102,Home Team Win
+103,Home Team Win
+104,Home Team Win
+105,Home Team Win
+106,Home Team Win
+107,Home Team Win
+108,Home Team Win
+109,Draw
+110,Home Team Win
+111,Away Team Win
+112,Draw
+113,Away Team Win
+114,Away Team Win
+115,Home Team Win
+116,Away Team Win
+117,Away Team Win
+118,Draw
+119,Home Team Win
+120,Home Team Win
+121,Home Team Win
+122,Draw
+123,Away Team Win
+124,Home Team Win
+125,Home Team Win
+126,Home Team Win
+127,Home Team Win
+128,Draw
+129,Away Team Win
+130,Away Team Win
+131,Away Team Win
+132,Home Team Win
+133,Away Team Win
+134,Away Team Win
+135,Away Team Win
+136,Away Team Win
+137,Home Team Win
+138,Home Team Win
+139,Home Team Win
+140,Home Team Win
+141,Away Team Win
+142,Home Team Win
+143,Away Team Win
+144,Away Team Win
+145,Away Team Win
+146,Draw
+147,Away Team Win
+148,Away Team Win
+149,Away Team Win
+150,Away Team Win
+151,Away Team Win
+152,Home Team Win
+153,Home Team Win
+154,Home Team Win
+155,Away Team Win
+156,Away Team Win
+157,Home Team Win
+158,Away Team Win
+159,Away Team Win
+160,Home Team Win
+161,Draw
+162,Draw
+163,Away Team Win
+164,Away Team Win
+165,Draw
+166,Home Team Win
+167,Draw
+168,Away Team Win
+169,Away Team Win
+170,Home Team Win
+171,Away Team Win
+172,Draw
+173,Draw
+174,Away Team Win
+175,Away Team Win
+176,Home Team Win
+177,Home Team Win
+178,Home Team Win
+179,Home Team Win
+180,Away Team Win
+181,Home Team Win
+182,Home Team Win
+183,Home Team Win
+184,Home Team Win
+185,Home Team Win
+186,Away Team Win
+187,Draw
+188,Home Team Win
+189,Draw
+190,Draw
+191,Draw
+192,Away Team Win
+193,Home Team Win
+194,Draw
+195,Draw
+196,Home Team Win
+197,Home Team Win
+198,Away Team Win
+199,Draw
+200,Home Team Win
+201,Away Team Win
+202,Home Team Win
+203,Home Team Win
+204,Home Team Win
+205,Home Team Win
+206,Draw
+207,Home Team Win
+208,Home Team Win
+209,Draw
+210,Draw
+211,Draw
+212,Draw
+213,Home Team Win
+214,Home Team Win
+215,Away Team Win
+216,Draw
+217,Away Team Win
+218,Home Team Win
+219,Home Team Win
+220,Away Team Win
+221,Away Team Win
+222,Draw
+223,Away Team Win
+224,Away Team Win
+225,Home Team Win
+226,Draw
+227,Away Team Win
+228,Away Team Win
+229,Home Team Win
+230,Home Team Win
+231,Draw
+232,Away Team Win
+233,Home Team Win
+234,Away Team Win
+235,Home Team Win
+236,Away Team Win
+237,Draw
+238,Home Team Win
+239,Home Team Win
+240,Home Team Win
+241,Home Team Win
+242,Home Team Win
+243,Home Team Win
+244,Home Team Win
+245,Home Team Win
+246,Home Team Win
+247,Home Team Win
+248,Draw
+249,Home Team Win
+250,Home Team Win
+251,Home Team Win
+252,Home Team Win
+253,Draw
+254,Away Team Win
+255,Home Team Win
+256,Away Team Win
+257,Away Team Win
+258,Draw
+259,Draw
+260,Home Team Win
+261,Home Team Win
+262,Away Team Win
+263,Away Team Win
+264,Home Team Win
+265,Draw
+266,Draw
+267,Away Team Win
+268,Draw
+269,Home Team Win
+270,Home Team Win
+271,Home Team Win
+272,Home Team Win
+273,Draw
+274,Home Team Win
+275,Draw
+276,Away Team Win
+277,Home Team Win
+278,Home Team Win
+279,Draw
+280,Away Team Win
+281,Home Team Win
+282,Away Team Win
+283,Draw
+284,Home Team Win
+285,Away Team Win
+286,Home Team Win
+287,Home Team Win
+288,Away Team Win
+289,Away Team Win
+290,Away Team Win
+291,Home Team Win
+292,Home Team Win
+293,Away Team Win
+294,Away Team Win
+295,Draw
+296,Home Team Win
+297,Away Team Win
+298,Away Team Win
+299,Away Team Win
+300,Away Team Win
+301,Home Team Win
+302,Home Team Win
+303,Draw
+304,Away Team Win
+305,Away Team Win
+306,Draw
+307,Home Team Win
+308,Draw
+309,Draw
+310,Home Team Win
+311,Home Team Win
+312,Away Team Win
+313,Home Team Win
+,outcome
+0,Away Team Win
+1,Draw
+2,Home Team Win
+3,Home Team Win
+4,Home Team Win
+5,Home Team Win
+6,Away Team Win
+7,Draw
+8,Away Team Win
+9,Away Team Win
+10,Home Team Win
+11,Home Team Win
+12,Draw
+13,Home Team Win
+14,Draw
+15,Draw
+16,Home Team Win
+17,Home Team Win
+18,Draw
+19,Draw
+20,Home Team Win
+21,Home Team Win
+22,Draw
+23,Home Team Win
+24,Away Team Win
+25,Away Team Win
+26,Home Team Win
+27,Away Team Win
+28,Draw
+29,Home Team Win
+30,Away Team Win
+31,Draw
+32,Home Team Win
+33,Home Team Win
+34,Home Team Win
+35,Home Team Win
+36,Home Team Win
+37,Away Team Win
+38,Draw
+39,Away Team Win
+40,Draw
+41,Home Team Win
+42,Home Team Win
+43,Draw
+44,Home Team Win
+45,Draw
+46,Home Team Win
+47,Draw
+48,Home Team Win
+49,Away Team Win
+50,Draw
+51,Home Team Win
+52,Home Team Win
+53,Draw
+54,Away Team Win
+55,Home Team Win
+56,Home Team Win
+57,Draw
+58,Home Team Win
+59,Home Team Win
+60,Home Team Win
+61,Away Team Win
+62,Away Team Win
+63,Draw
+64,Home Team Win
+65,Away Team Win
+66,Home Team Win
+67,Home Team Win
+68,Draw
+69,Away Team Win
+70,Away Team Win
+71,Draw
+72,Away Team Win
+73,Home Team Win
+74,Home Team Win
+75,Draw
+76,Home Team Win
+77,Home Team Win
+78,Home Team Win
+80,Home Team Win
+81,Away Team Win
+82,Home Team Win
+83,Home Team Win
+84,Home Team Win
+85,Away Team Win
+86,Draw
+87,Home Team Win
+88,Draw
+89,Draw
+90,Home Team Win
+91,Home Team Win
+92,Away Team Win
+93,Away Team Win
+94,Draw
+95,Draw
+96,Home Team Win
+97,Draw
+98,Home Team Win
+99,Away Team Win
+100,Draw
+101,Home Team Win
+102,Home Team Win
+103,Home Team Win
+104,Home Team Win
+105,Home Team Win
+106,Home Team Win
+107,Home Team Win
+108,Home Team Win
+109,Draw
+110,Home Team Win
+111,Away Team Win
+112,Draw
+113,Away Team Win
+114,Away Team Win
+115,Home Team Win
+116,Away Team Win
+117,Away Team Win
+118,Draw
+119,Home Team Win
+120,Home Team Win
+121,Home Team Win
+122,Draw
+123,Away Team Win
+124,Home Team Win
+125,Home Team Win
+126,Home Team Win
+127,Home Team Win
+128,Draw
+129,Away Team Win
+130,Away Team Win
+131,Away Team Win
+132,Home Team Win
+133,Away Team Win
+134,Away Team Win
+135,Away Team Win
+136,Away Team Win
+137,Home Team Win
+138,Home Team Win
+139,Home Team Win
+140,Home Team Win
+141,Away Team Win
+142,Home Team Win
+143,Away Team Win
+144,Away Team Win
+145,Away Team Win
+146,Draw
+147,Away Team Win
+148,Away Team Win
+149,Away Team Win
+150,Away Team Win
+151,Away Team Win
+152,Home Team Win
+153,Home Team Win
+154,Home Team Win
+155,Away Team Win
+156,Away Team Win
+157,Home Team Win
+158,Away Team Win
+159,Away Team Win
+160,Home Team Win
+161,Draw
+162,Draw
+163,Away Team Win
+164,Away Team Win
+165,Draw
+166,Home Team Win
+167,Draw
+168,Away Team Win
+169,Away Team Win
+170,Home Team Win
+171,Away Team Win
+172,Draw
+173,Draw
+174,Away Team Win
+175,Away Team Win
+176,Home Team Win
+177,Home Team Win
+178,Home Team Win
+179,Home Team Win
+180,Away Team Win
+181,Home Team Win
+182,Home Team Win
+183,Home Team Win
+184,Home Team Win
+185,Home Team Win
+186,Away Team Win
+187,Draw
+188,Home Team Win
+189,Draw
+190,Draw
+191,Draw
+192,Away Team Win
+193,Home Team Win
+194,Draw
+195,Draw
+196,Home Team Win
+197,Home Team Win
+198,Away Team Win
+199,Draw
+200,Home Team Win
+201,Away Team Win
+202,Home Team Win
+203,Home Team Win
+204,Home Team Win
+205,Home Team Win
+206,Draw
+207,Home Team Win
+208,Home Team Win
+209,Draw
+210,Draw
+211,Draw
+212,Draw
+213,Home Team Win
+214,Home Team Win
+215,Away Team Win
+216,Draw
+217,Away Team Win
+218,Home Team Win
+219,Home Team Win
+220,Away Team Win
+221,Away Team Win
+222,Draw
+223,Away Team Win
+224,Away Team Win
+225,Home Team Win
+226,Draw
+227,Away Team Win
+228,Away Team Win
+229,Home Team Win
+230,Home Team Win
+231,Draw
+232,Away Team Win
+233,Home Team Win
+234,Away Team Win
+235,Home Team Win
+236,Away Team Win
+237,Draw
+238,Home Team Win
+239,Home Team Win
+240,Home Team Win
+241,Home Team Win
+242,Home Team Win
+243,Home Team Win
+244,Home Team Win
+245,Home Team Win
+246,Home Team Win
+247,Home Team Win
+248,Draw
+249,Home Team Win
+250,Home Team Win
+251,Home Team Win
+252,Home Team Win
+253,Draw
+254,Away Team Win
+255,Home Team Win
+256,Away Team Win
+257,Away Team Win
+258,Draw
+259,Draw
+260,Home Team Win
+261,Home Team Win
+262,Away Team Win
+263,Away Team Win
+264,Home Team Win
+265,Draw
+266,Draw
+267,Away Team Win
+268,Draw
+269,Home Team Win
+270,Home Team Win
+271,Home Team Win
+272,Home Team Win
+273,Draw
+274,Home Team Win
+275,Draw
+276,Away Team Win
+277,Home Team Win
+278,Home Team Win
+279,Draw
+280,Away Team Win
+281,Home Team Win
+282,Away Team Win
+283,Draw
+284,Home Team Win
+285,Away Team Win
+286,Home Team Win
+287,Home Team Win
+288,Away Team Win
+289,Away Team Win
+290,Away Team Win
+291,Home Team Win
+292,Home Team Win
+293,Away Team Win
+294,Away Team Win
+295,Draw
+296,Home Team Win
+297,Away Team Win
+298,Away Team Win
+299,Away Team Win
+300,Away Team Win
+301,Home Team Win
+302,Home Team Win
+303,Draw
+304,Away Team Win
+305,Away Team Win
+306,Draw
+307,Home Team Win
+308,Draw
+309,Draw
+310,Home Team Win
+311,Home Team Win
+312,Away Team Win
+313,Home Team Win
+,outcome
+0,Away Team Win
+1,Draw
+2,Home Team Win
+3,Home Team Win
+4,Home Team Win
+5,Home Team Win
+6,Away Team Win
+7,Draw
+8,Away Team Win
+9,Away Team Win
+10,Home Team Win
+11,Home Team Win
+12,Draw
+13,Home Team Win
+14,Draw
+15,Draw
+16,Home Team Win
+17,Home Team Win
+18,Draw
+19,Draw
+20,Home Team Win
+21,Home Team Win
+22,Draw
+23,Home Team Win
+24,Away Team Win
+25,Away Team Win
+26,Home Team Win
+27,Away Team Win
+28,Draw
+29,Home Team Win
+30,Away Team Win
+31,Draw
+32,Home Team Win
+33,Home Team Win
+34,Home Team Win
+35,Home Team Win
+36,Home Team Win
+37,Away Team Win
+38,Draw
+39,Away Team Win
+40,Draw
+41,Home Team Win
+42,Home Team Win
+43,Draw
+44,Home Team Win
+45,Draw
+46,Home Team Win
+47,Draw
+48,Home Team Win
+49,Away Team Win
+50,Draw
+51,Home Team Win
+52,Home Team Win
+53,Draw
+54,Away Team Win
+55,Home Team Win
+56,Home Team Win
+57,Draw
+58,Home Team Win
+59,Home Team Win
+60,Home Team Win
+61,Away Team Win
+62,Away Team Win
+63,Draw
+64,Home Team Win
+65,Away Team Win
+66,Home Team Win
+67,Home Team Win
+68,Draw
+69,Away Team Win
+70,Away Team Win
+71,Draw
+72,Away Team Win
+73,Home Team Win
+74,Home Team Win
+75,Draw
+76,Home Team Win
+77,Home Team Win
+78,Home Team Win
+80,Home Team Win
+81,Away Team Win
+82,Home Team Win
+83,Home Team Win
+84,Home Team Win
+85,Away Team Win
+86,Draw
+87,Home Team Win
+88,Draw
+89,Draw
+90,Home Team Win
+91,Home Team Win
+92,Away Team Win
+93,Away Team Win
+94,Draw
+95,Draw
+96,Home Team Win
+97,Draw
+98,Home Team Win
+99,Away Team Win
+100,Draw
+101,Home Team Win
+102,Home Team Win
+103,Home Team Win
+104,Home Team Win
+105,Home Team Win
+106,Home Team Win
+107,Home Team Win
+108,Home Team Win
+109,Draw
+110,Home Team Win
+111,Away Team Win
+112,Draw
+113,Away Team Win
+114,Away Team Win
+115,Home Team Win
+116,Away Team Win
+117,Away Team Win
+118,Draw
+119,Home Team Win
+120,Home Team Win
+121,Home Team Win
+122,Draw
+123,Away Team Win
+124,Home Team Win
+125,Home Team Win
+126,Home Team Win
+127,Home Team Win
+128,Draw
+129,Away Team Win
+130,Away Team Win
+131,Away Team Win
+132,Home Team Win
+133,Away Team Win
+134,Away Team Win
+135,Away Team Win
+136,Away Team Win
+137,Home Team Win
+138,Home Team Win
+139,Home Team Win
+140,Home Team Win
+141,Away Team Win
+142,Home Team Win
+143,Away Team Win
+144,Away Team Win
+145,Away Team Win
+146,Draw
+147,Away Team Win
+148,Away Team Win
+149,Away Team Win
+150,Away Team Win
+151,Away Team Win
+152,Home Team Win
+153,Home Team Win
+154,Home Team Win
+155,Away Team Win
+156,Away Team Win
+157,Home Team Win
+158,Away Team Win
+159,Away Team Win
+160,Home Team Win
+161,Draw
+162,Draw
+163,Away Team Win
+164,Away Team Win
+165,Draw
+166,Home Team Win
+167,Draw
+168,Away Team Win
+169,Away Team Win
+170,Home Team Win
+171,Away Team Win
+172,Draw
+173,Draw
+174,Away Team Win
+175,Away Team Win
+176,Home Team Win
+177,Home Team Win
+178,Home Team Win
+179,Home Team Win
+180,Away Team Win
+181,Home Team Win
+182,Home Team Win
+183,Home Team Win
+184,Home Team Win
+185,Home Team Win
+186,Away Team Win
+187,Draw
+188,Home Team Win
+189,Draw
+190,Draw
+191,Draw
+192,Away Team Win
+193,Home Team Win
+194,Draw
+195,Draw
+196,Home Team Win
+197,Home Team Win
+198,Away Team Win
+199,Draw
+200,Home Team Win
+201,Away Team Win
+202,Home Team Win
+203,Home Team Win
+204,Home Team Win
+205,Home Team Win
+206,Draw
+207,Home Team Win
+208,Home Team Win
+209,Draw
+210,Draw
+211,Draw
+212,Draw
+213,Home Team Win
+214,Home Team Win
+215,Away Team Win
+216,Draw
+217,Away Team Win
+218,Home Team Win
+219,Home Team Win
+220,Away Team Win
+221,Away Team Win
+222,Draw
+223,Away Team Win
+224,Away Team Win
+225,Home Team Win
+226,Draw
+227,Away Team Win
+228,Away Team Win
+229,Home Team Win
+230,Home Team Win
+231,Draw
+232,Away Team Win
+233,Home Team Win
+234,Away Team Win
+235,Home Team Win
+236,Away Team Win
+237,Draw
+238,Home Team Win
+239,Home Team Win
+240,Home Team Win
+241,Home Team Win
+242,Home Team Win
+243,Home Team Win
+244,Home Team Win
+245,Home Team Win
+246,Home Team Win
+247,Home Team Win
+248,Draw
+249,Home Team Win
+250,Home Team Win
+251,Home Team Win
+252,Home Team Win
+253,Draw
+254,Away Team Win
+255,Home Team Win
+256,Away Team Win
+257,Away Team Win
+258,Draw
+259,Draw
+260,Home Team Win
+261,Home Team Win
+262,Away Team Win
+263,Away Team Win
+264,Home Team Win
+265,Draw
+266,Draw
+267,Away Team Win
+268,Draw
+269,Home Team Win
+270,Home Team Win
+271,Home Team Win
+272,Home Team Win
+273,Draw
+274,Home Team Win
+275,Draw
+276,Away Team Win
+277,Home Team Win
+278,Home Team Win
+279,Draw
+280,Away Team Win
+281,Home Team Win
+282,Away Team Win
+283,Draw
+284,Home Team Win
+285,Away Team Win
+286,Home Team Win
+287,Home Team Win
+288,Away Team Win
+289,Away Team Win
+290,Away Team Win
+291,Home Team Win
+292,Home Team Win
+293,Away Team Win
+294,Away Team Win
+295,Draw
+296,Home Team Win
+297,Away Team Win
+298,Away Team Win
+299,Away Team Win
+300,Away Team Win
+301,Home Team Win
+302,Home Team Win
+303,Draw
+304,Away Team Win
+305,Away Team Win
+306,Draw
+307,Home Team Win
+308,Draw
+309,Draw
+310,Home Team Win
+311,Home Team Win
+312,Away Team Win
+313,Home Team Win
+,outcome
+0,Away Team Win
+1,Draw
+2,Home Team Win
+3,Home Team Win
+4,Home Team Win
+5,Home Team Win
+6,Away Team Win
+7,Draw
+8,Away Team Win
+9,Away Team Win
+10,Home Team Win
+11,Home Team Win
+12,Draw
+13,Home Team Win
+14,Draw
+15,Draw
+16,Home Team Win
+17,Home Team Win
+18,Draw
+19,Draw
+20,Home Team Win
+21,Home Team Win
+22,Draw
+23,Home Team Win
+24,Away Team Win
+25,Away Team Win
+26,Home Team Win
+27,Away Team Win
+28,Draw
+29,Home Team Win
+30,Away Team Win
+31,Draw
+32,Home Team Win
+33,Home Team Win
+34,Home Team Win
+35,Home Team Win
+36,Home Team Win
+37,Away Team Win
+38,Draw
+39,Away Team Win
+40,Draw
+41,Home Team Win
+42,Home Team Win
+43,Draw
+44,Home Team Win
+45,Draw
+46,Home Team Win
+47,Draw
+48,Home Team Win
+49,Away Team Win
+50,Draw
+51,Home Team Win
+52,Home Team Win
+53,Draw
+54,Away Team Win
+55,Home Team Win
+56,Home Team Win
+57,Draw
+58,Home Team Win
+59,Home Team Win
+60,Home Team Win
+61,Away Team Win
+62,Away Team Win
+63,Draw
+64,Home Team Win
+65,Away Team Win
+66,Home Team Win
+67,Home Team Win
+68,Draw
+69,Away Team Win
+70,Away Team Win
+71,Draw
+72,Away Team Win
+73,Home Team Win
+74,Home Team Win
+75,Draw
+76,Home Team Win
+77,Home Team Win
+78,Home Team Win
+80,Home Team Win
+81,Away Team Win
+82,Home Team Win
+83,Home Team Win
+84,Home Team Win
+85,Away Team Win
+86,Draw
+87,Home Team Win
+88,Draw
+89,Draw
+90,Home Team Win
+91,Home Team Win
+92,Away Team Win
+93,Away Team Win
+94,Draw
+95,Draw
+96,Home Team Win
+97,Draw
+98,Home Team Win
+99,Away Team Win
+100,Draw
+101,Home Team Win
+102,Home Team Win
+103,Home Team Win
+104,Home Team Win
+105,Home Team Win
+106,Home Team Win
+107,Home Team Win
+108,Home Team Win
+109,Draw
+110,Home Team Win
+111,Away Team Win
+112,Draw
+113,Away Team Win
+114,Away Team Win
+115,Home Team Win
+116,Away Team Win
+117,Away Team Win
+118,Draw
+119,Home Team Win
+120,Home Team Win
+121,Home Team Win
+122,Draw
+123,Away Team Win
+124,Home Team Win
+125,Home Team Win
+126,Home Team Win
+127,Home Team Win
+128,Draw
+129,Away Team Win
+130,Away Team Win
+131,Away Team Win
+132,Home Team Win
+133,Away Team Win
+134,Away Team Win
+135,Away Team Win
+136,Away Team Win
+137,Home Team Win
+138,Home Team Win
+139,Home Team Win
+140,Home Team Win
+141,Away Team Win
+142,Home Team Win
+143,Away Team Win
+144,Away Team Win
+145,Away Team Win
+146,Draw
+147,Away Team Win
+148,Away Team Win
+149,Away Team Win
+150,Away Team Win
+151,Away Team Win
+152,Home Team Win
+153,Home Team Win
+154,Home Team Win
+155,Away Team Win
+156,Away Team Win
+157,Home Team Win
+158,Away Team Win
+159,Away Team Win
+160,Home Team Win
+161,Draw
+162,Draw
+163,Away Team Win
+164,Away Team Win
+165,Draw
+166,Home Team Win
+167,Draw
+168,Away Team Win
+169,Away Team Win
+170,Home Team Win
+171,Away Team Win
+172,Draw
+173,Draw
+174,Away Team Win
+175,Away Team Win
+176,Home Team Win
+177,Home Team Win
+178,Home Team Win
+179,Home Team Win
+180,Away Team Win
+181,Home Team Win
+182,Home Team Win
+183,Home Team Win
+184,Home Team Win
+185,Home Team Win
+186,Away Team Win
+187,Draw
+188,Home Team Win
+189,Draw
+190,Draw
+191,Draw
+192,Away Team Win
+193,Home Team Win
+194,Draw
+195,Draw
+196,Home Team Win
+197,Home Team Win
+198,Away Team Win
+199,Draw
+200,Home Team Win
+201,Away Team Win
+202,Home Team Win
+203,Home Team Win
+204,Home Team Win
+205,Home Team Win
+206,Draw
+207,Home Team Win
+208,Home Team Win
+209,Draw
+210,Draw
+211,Draw
+212,Draw
+213,Home Team Win
+214,Home Team Win
+215,Away Team Win
+216,Draw
+217,Away Team Win
+218,Home Team Win
+219,Home Team Win
+220,Away Team Win
+221,Away Team Win
+222,Draw
+223,Away Team Win
+224,Away Team Win
+225,Home Team Win
+226,Draw
+227,Away Team Win
+228,Away Team Win
+229,Home Team Win
+230,Home Team Win
+231,Draw
+232,Away Team Win
+233,Home Team Win
+234,Away Team Win
+235,Home Team Win
+236,Away Team Win
+237,Draw
+238,Home Team Win
+239,Home Team Win
+240,Home Team Win
+241,Home Team Win
+242,Home Team Win
+243,Home Team Win
+244,Home Team Win
+245,Home Team Win
+246,Home Team Win
+247,Home Team Win
+248,Draw
+249,Home Team Win
+250,Home Team Win
+251,Home Team Win
+252,Home Team Win
+253,Draw
+254,Away Team Win
+255,Home Team Win
+256,Away Team Win
+257,Away Team Win
+258,Draw
+259,Draw
+260,Home Team Win
+261,Home Team Win
+262,Away Team Win
+263,Away Team Win
+264,Home Team Win
+265,Draw
+266,Draw
+267,Away Team Win
+268,Draw
+269,Home Team Win
+270,Home Team Win
+271,Home Team Win
+272,Home Team Win
+273,Draw
+274,Home Team Win
+275,Draw
+276,Away Team Win
+277,Home Team Win
+278,Home Team Win
+279,Draw
+280,Away Team Win
+281,Home Team Win
+282,Away Team Win
+283,Draw
+284,Home Team Win
+285,Away Team Win
+286,Home Team Win
+287,Home Team Win
+288,Away Team Win
+289,Away Team Win
+290,Away Team Win
+291,Home Team Win
+292,Home Team Win
+293,Away Team Win
+294,Away Team Win
+295,Draw
+296,Home Team Win
+297,Away Team Win
+298,Away Team Win
+299,Away Team Win
+300,Away Team Win
+301,Home Team Win
+302,Home Team Win
+303,Draw
+304,Away Team Win
+305,Away Team Win
+306,Draw
+307,Home Team Win
+308,Draw
+309,Draw
+310,Home Team Win
+311,Home Team Win
+312,Away Team Win
+313,Home Team Win
